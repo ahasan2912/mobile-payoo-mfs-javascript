@@ -12,6 +12,6 @@ document.getElementById('button-login').addEventListener('click', function(event
         window.location.href = '/home.html';
     }
     else{
-        alert('Pin number wrong');
+        alert("Worng Pin Number");
     }
 });
